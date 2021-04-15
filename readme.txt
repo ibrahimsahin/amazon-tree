@@ -1,8 +1,4 @@
-In this experiment we will have a chance to learn  trees, a very important data structure concept, 
-and manipulating of it. In computer science, a treeis a widely-used data structure that emulates a 
-tree  structure  with  a  set  of  linked  nodes.  It  is  an acyclic  and  connected  graph.  Most  of  the 
-literatures  also  include  the  constraint  that  a  graph's  edges  must  be  undirected  to  be  a  tree 
-In this work you’re expected to implement a programthat manipulates the product/category tree 
+In this work qwre expected to implement a programthat manipulates the product/category tree 
 of  amazon.com  web  site.   You’ll  be  given  two  input  files:  “urunler.txt”,  containing  a  sample 
 subset  of  categories  and  products  of  amazon.com  and “islem.txt”  which  contains  some 
 commands  that  will  be  executed  against  products/categories
