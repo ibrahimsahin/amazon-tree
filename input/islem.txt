@@ -1,0 +1,12 @@
+RISE NOD_32 Microsoft_Mouse 14
+SELL Kingston_1GB_RAM Norton_360 3
+SELL MixBlend 4
+RISE Books 5
+DISCOUNT Halo_3 Software NOD_32 13
+RISE Kitchen_&_Dining 9
+SELL Man's_Journal 7
+LIST Amazon
+SELL Halo_3 13
+REPORT Computers
+RETURN Halo_3 4
+REPORT Amazon
